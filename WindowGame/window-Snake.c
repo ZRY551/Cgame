@@ -127,3 +127,12 @@ int main()
 	free(map);
 	free(screen);
 }
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
