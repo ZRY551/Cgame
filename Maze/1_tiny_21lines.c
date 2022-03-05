@@ -20,6 +20,10 @@ int main(){
 	}
 }
 
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 /*
 21行迷宫, 931字符, 实现了简单的功能;
 ADSW移动, 按下Q键或到达另一端自动刷新, 按下Esc键时游戏结束;
@@ -37,3 +41,8 @@ ADSW移动, 按下Q键或到达另一端自动刷新, 按下Esc键时游戏结�
 2020.12.13
 	上传
 */
+// Only Add Some Text
+// Only Add Some Text
+// // Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text

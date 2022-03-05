@@ -36,3 +36,9 @@ ADSW使所有数字移动, 相同数字合并, 每次行动后产生新数字,
 //由于2048本身逻辑挺复杂的, 压缩花了很长时间...
 //这里感谢群里某个大佬提供的边界检测思路(然后又重构了一遍233)
 //*大佬不愿透露名字
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+
+// Only Add Some Text
