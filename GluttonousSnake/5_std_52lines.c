@@ -23,6 +23,7 @@ int main(int argc, char** acgv)
     //将帧数转换相应的延迟, size设置为对应大小
     //寻找空地, 分配内存, print要包含边界, 换行符还有'\0'需要额外的空间
 
+    // Only Add Some Text2
     //初始化随机数种子, 设置食物; 输入不为Esc键则继续执行; 延迟
     for (srand((unsigned)map), map[i] = -1; buf - 27; _sleep(fps))
     {
