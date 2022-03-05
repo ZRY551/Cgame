@@ -1,4 +1,7 @@
 #include<stdlib.h>
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 #include<stdio.h>
 #define OUTSIDE(x, y) (x < 0 || 8 < x || y < 0 || 8 < y)
 int map[81] = {0}, mark[81] = {0}, count = 81, bomb = -4, i, j, k;
@@ -8,12 +11,17 @@ void setBomb(int x, int y) {
 		if (!(map[9 * k + j] == 9 || j == x && k == y) && (i++, map[9 * k + j] = 9))
 			for (int i = 0; i < 8 && (m = j + node[i][0], n = k + node[i][1], 1); i++)
 				!(OUTSIDE(m, n) || map[9 * n + m] == 9) && map[9 * n + m]++;
-}
+}// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 void open(int x, int y) {
 	if (OUTSIDE(x, y) || mark[9 * y + x] > 0)return;
 	if (mark[9 * y + x] = 1, count--, map[9 * y + x] > 0)return;
 	for (int i = 0; i < 8; i++)open(x + node[i][0], y + node[i][1]);
 }
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 int main() {
 	system("mode con:cols=18 lines=12");
 	for (srand((unsigned)malloc(1)); 1; open(j, k), system("cls")) {

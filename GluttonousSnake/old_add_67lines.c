@@ -19,6 +19,10 @@ int main()
 			while (map[i]);
 			map[i] = -1;
 		}
+		// Only Add Some Text
+		// Only Add Some Text
+		// Only Add Some Text
+		// Only Add Some Text
 		for (system("title 得分:0"); 1; Sleep(100))///初始化计分板，延迟
 		{
 			if (_kbhit() && (cl = _getch()))//判断是否输入
@@ -93,3 +97,10 @@ ADSW移动, 吃到食物成长, 可撞边界, 吃到自己身体或撞墙时游�
 7.计分板			(+2 lines)(48-49)
 在标题栏上实现
 */
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text

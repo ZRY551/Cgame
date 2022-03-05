@@ -12,6 +12,7 @@ int main()
 		if (_kbhit() && (cl = _getch()))//判断是否输入
 			switch (cl)
 			{
+				// Only Add Some Text
 				case 'a':case 'A':if (c != 'd')c = 'a'; break;//判断与原方向是否冲突
 				case 'd':case 'D':if (c != 'a')c = 'd'; break;
 				case 's':case 'S':if (c != 'w')c = 's'; break;

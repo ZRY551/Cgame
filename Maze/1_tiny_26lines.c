@@ -39,3 +39,11 @@ adsw移动(不支持大写), 直到移动到右下角时游戏结束;
 于2020.4.24上传, 2020.10.3补充说明并修改部分代码
 */
 // Only Add Some Text
+/*void set(int x, int y) {
+	for (srand(m), f = tmp; c++ < B; dig(j % W, j / W), m[j] = 16, k[j]--)
+		for (; m[j = rand() % (W * H)] > 9 || z == j || (m[j] = 0););
+	f = dig, s += B, dig(x, y);
+}*/
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text

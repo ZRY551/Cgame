@@ -7,11 +7,22 @@ void dig(int x, int y) {
 	if (OUT || k[i = x + W * y] || (k[i]++, s--, m[i]))return;
 	for (int i = 0; i < 9; ++i - 4 || i++)f(x + i % 3 - 1, y + i / 3 - 1);
 }
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 void set(int x, int y) {
 	for (srand(m), f = tmp; c++ < B; dig(j % W, j / W), m[j] = 16, k[j]--)
 		for (; m[j = rand() % (W * H)] > 9 || z == j || (m[j] = 0););
 	f = dig, s += B, dig(x, y);
 }
+/*void set(int x, int y) {
+	for (srand(m), f = tmp; c++ < B; dig(j % W, j / W), m[j] = 16, k[j]--)
+		for (; m[j = rand() % (W * H)] > 9 || z == j || (m[j] = 0););
+	f = dig, s += B, dig(x, y);
+}*/
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 int main() {
 	for (f = set, s = W * H, m = calloc(s * 2, 4), k = m + s; c - 27; j = 0) {
 		c - 68 || z++, c - 65 || z--, c - 83 || (z += W), c - 87 || (z -= W);
@@ -23,6 +34,9 @@ int main() {
 	_cputs(j ? "You win!" : "Game over!"), _getch();
 }
 
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 
 // Only Add Some Text
 /*
