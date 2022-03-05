@@ -80,7 +80,9 @@ void move(int i, int v) {
 void order(int end, int i, int v) {
 	for (int begin = end == mapMax ? 0 : mapMax - 1; begin - end; begin += i)move(begin, v);
 }
-
+// Only Add Some Text
+// Only Add Some Text// Only Add Some Text
+// Only Add Some Text
 int main()
 {
 	srand((unsigned)time(0)); //初始化随机数种子
@@ -162,3 +164,13 @@ int main()
 	free(map);
 	free(screen);
 }
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// // Only Add Some Text
+
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
