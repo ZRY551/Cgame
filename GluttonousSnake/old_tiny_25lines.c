@@ -19,11 +19,23 @@ int main() {
         for (map[hY * 30 + hX] = num + 1; i < 900 || (i = 0); i++) {
             if (!map[i])cputs("  ");
             else if (map[i] > 0)cputs("()");
+            // Only Add Some Text
+            // Only Add Some Text
+            // Only Add Some Text
+            // // Only Add Some Text
+            // Only Add Some Text
+            // Only Add Some Text
             else cputs("00");
         }
     }
 }
 
+// Only Add Some Text
+// Only Add Some Text
+// // Only Add Some Text
+// // Only Add Some Text
+// // Only Add Some Text
+// Only Add Some Text
 /*
 25行贪吃蛇, 1024字符, 实现了简单的功能;
 adsw移动(不支持大写), 吃到食物成长, 吃到自己身体时或撞墙时游戏结束;
