@@ -125,6 +125,9 @@ int main()
 		if (game || _cprintf("Game over!"))_cprintf("score:%d", score);
 		for (i = 0; i < mapMax; i++)
 		{
+			// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 			if (i % mapCols == 0)
 			{
 				_cputs("\n");
@@ -149,6 +152,9 @@ int main()
 				for (int i = 0; i < len; temp /= 10, i++)
 					str[len - i - 1] = temp % 10 + 48;
 				str[len] = 0;
+				// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 				hdc = GetDC(screen[i]);
 				SelectObject(hdc, hFont);
 				Rectangle(hdc, -1, -1, windowWidth, windowHeight);
@@ -159,6 +165,9 @@ int main()
 			else ShowWindow(screen[i], SW_HIDE);
 		}
 	}
+	// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 	Sleep(1000);
 	DeleteObject(hFont);
 	free(map);
