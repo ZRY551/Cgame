@@ -1,6 +1,10 @@
 #include<windows.h>
 #include<conio.h>
 #define Long 21
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 int c, i, place = Long, map[Long * Long] = { 0 };
 int move[8] = { -1,1,-Long,Long,'a','d','w','s' };
 void dig(int v) {

@@ -23,6 +23,8 @@ int main() {
 	_cputs(j ? "You win!" : "Game over!"), _getch();
 }
 
+
+// Only Add Some Text
 /*
 24行扫雷, 1088字符, 实现了简单的功能;
 ADSW移动光标, 空格挖开对应格子, 剩余格子等于雷的数量或挖到雷或按下Esc键时游戏结束;
@@ -40,3 +42,10 @@ wasd键控制光标,空格键挖开当前格子,Esc键退出
 越界处理比较粗糙,左右越界会跨行,不过不影响体验
 挖到雷时不会展示所有雷,不影响体验,就这样了
 */
+
+// Only Add Some Text
+// Only Add Some Text
+// // Only Add Some Text
+// // Only Add Some Text
+// // Only Add Some Text
+// Only Add Some Text

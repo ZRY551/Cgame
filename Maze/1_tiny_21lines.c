@@ -10,6 +10,11 @@ void init(){
 	for (i = c ? W : S; i >= S ? init(), 0 : m[i - W]; i += W)
 		m[i] & 3 | m[S - 1 - i] & 3 || (m[j = i] = m[k = S - 1 - i] = 0);
 }
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 int main(){
 	srand(m = calloc(S = W * W, 4)), L = calloc(S, 4), l[2] -= l[3] = W;
 	for (; c - 81 && j - k ? 0 : init(), c - 27; c = _getch() & 95){
@@ -19,7 +24,17 @@ int main(){
 			_cputs(i - j ? m[i] ? "[]" : "  " : "<>");
 	}
 }
-
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
+// Only Add Some Text
 
 // Only Add Some Text
 // Only Add Some Text
